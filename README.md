@@ -9,8 +9,11 @@ The Hand Gesture Recognition System is a computer vision-based application that 
 Traditional human-computer interaction relies heavily on physical input devices like keyboards and mice. These methods are not always intuitive or suitable for touchless environments.
 
 -The problem is to design a system that:
+
 -Allows interaction without physical contact
+
 -Recognizes hand gestures accurately in real time
+
 -Works efficiently using a standard webcam
 
 3. Objectives
