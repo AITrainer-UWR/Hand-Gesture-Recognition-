@@ -67,6 +67,7 @@ Displays gesture name
 Shows finger count
 Draws hand landmarks
 
+
 7. Working of the System
 
 Step 1: Video Capture
