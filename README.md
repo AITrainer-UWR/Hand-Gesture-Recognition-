@@ -26,12 +26,19 @@ Traditional human-computer interaction relies heavily on physical input devices 
 This project focuses on recognizing basic hand gestures such as:
 
 -Fist
+
 -Open hand
+
 -Thumbs up
+
 -Peace sign
+
 -It can be extended to:
+
 -Sign language recognition
+
 -Gesture-based device control
+
 -Virtual reality interaction
 
 5. System Overview
